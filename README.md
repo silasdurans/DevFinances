@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="#sobre-o-projeto">Sobre o projeto</a> |
-  <a href="#tecnologias">Tecnologias</a>
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="https://silasdurans.github.io/DevFinances/">Link do Projeto</a>
+
 </p>
 
 <img align="center" src="./.github/background.jpg" />
